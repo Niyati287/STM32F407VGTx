@@ -1,4 +1,4 @@
-/***** Generalize code for LCD16x2 *****/
+/******* Generalize code for LCD16x2 *******/
 
 #include "NP_LCD.h"
 #include <string.h>
